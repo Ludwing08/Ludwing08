@@ -46,5 +46,3 @@
 
 [![GitHub
 Streak](http://github-readme-streak-stats.herokuapp.com?user=Ludwing&theme=dark&hide_border=true&border_radius=&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ludwing08&repo=github-readme-stats)]
