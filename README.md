@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on my [Portafolio](https://github.com/Ludwing08/perfil)
 
-- 🌱 I am currently learning **Angular**, **React**
+- 🌱 I am currently learning **Angular**, **Flutter**, **Laravel**
 
 - 👨‍💻 You can see all my projects in: [https://github.com/Ludwing08](https://github.com/Ludwing08)
 
