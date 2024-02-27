@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Ludwing</h1>
-<h3 align="center">Soy un desarrollador ecuatoriano apasionado por UX y Front End</h3>
+<h3 align="center">Soy un desarrollador ecuatoriano apasionado por el Desarrollo Web </h3>
 
 <h3 align="left">About me</h3>
 
