@@ -43,4 +43,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwing08&layout=compact&theme=dark&hide_border=true)](https://github.com/ludwing08/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ludwing08)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ludwing08&theme=dark&border_radius=5&card_height=190)](https://git.io/streak-stats)
