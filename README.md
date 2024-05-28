@@ -44,4 +44,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwing08&layout=compact&theme=dark&hide_border=true)](https://github.com/ludwing08/github-readme-stats)
 
 [![GitHub
-Streak](http://github-readme-streak-stats.herokuapp.com?user=ludwing&theme=dark&hide_border=true&border_radius=&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+Streak](http://github-readme-streak-stats.herokuapp.com?user=ludwing&theme=dark&hide_border=true&border_radius=&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/ludwing08/streak-stats)
